@@ -1,7 +1,5 @@
 package gr.aueb.cf.ch12.model;
 
-import java.util.SplittableRandom;
-
 public class User {
     private long id;
     private String firstname;
