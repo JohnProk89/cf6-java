@@ -1,6 +1,6 @@
-package gr.aueb.cf.ch12;
+package gr.aueb.cf.ch12oopintro;
 
-import gr.aueb.cf.ch12.model.Point;
+import gr.aueb.cf.ch12oopintro.model.Point;
 
 /**
  * Driver class /client

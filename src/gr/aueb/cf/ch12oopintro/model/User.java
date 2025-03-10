@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch12.model;
+package gr.aueb.cf.ch12oopintro.model;
 
 public class User {
     private long id;

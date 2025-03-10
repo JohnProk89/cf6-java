@@ -1,6 +1,6 @@
-package gr.aueb.cf.ch12;
+package gr.aueb.cf.ch12oopintro;
 
-import gr.aueb.cf.ch12.model.Product;
+import gr.aueb.cf.ch12oopintro.model.Product;
 
 /**
  * Demonstrates the usage of {@link Product} class

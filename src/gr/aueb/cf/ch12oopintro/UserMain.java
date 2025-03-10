@@ -1,6 +1,6 @@
-package gr.aueb.cf.ch12;
+package gr.aueb.cf.ch12oopintro;
 
-import gr.aueb.cf.ch12.model.User;
+import gr.aueb.cf.ch12oopintro.model.User;
 
 public class UserMain {
 

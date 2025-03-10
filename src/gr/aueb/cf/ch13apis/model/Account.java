@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch13.model;
+package gr.aueb.cf.ch13apis.model;
 
 public class Account {
     private int id;

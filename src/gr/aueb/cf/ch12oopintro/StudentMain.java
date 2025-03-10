@@ -1,6 +1,6 @@
-package gr.aueb.cf.ch12;
+package gr.aueb.cf.ch12oopintro;
 
-import gr.aueb.cf.ch12.model.Student;
+import gr.aueb.cf.ch12oopintro.model.Student;
 
 /**
  * Like a client.

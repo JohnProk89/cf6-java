@@ -1,6 +1,6 @@
-package gr.aueb.cf.ch12;
+package gr.aueb.cf.ch12oopintro;
 
-import gr.aueb.cf.ch12.model.Teacher;
+import gr.aueb.cf.ch12oopintro.model.Teacher;
 
 /**
  * Client class creates a {@link Teacher} instance and populates its state

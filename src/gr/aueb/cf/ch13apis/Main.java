@@ -1,6 +1,6 @@
-package gr.aueb.cf.ch13;
+package gr.aueb.cf.ch13apis;
 
-import gr.aueb.cf.ch13.model.Account;
+import gr.aueb.cf.ch13apis.model.Account;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch12.model;
+package gr.aueb.cf.ch12oopintro.model;
 
 /**
  * It defines a simple {@link Vehicle} Java Bean with a public API

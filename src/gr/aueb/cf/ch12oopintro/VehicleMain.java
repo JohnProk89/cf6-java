@@ -1,7 +1,7 @@
-package gr.aueb.cf.ch12;
+package gr.aueb.cf.ch12oopintro;
 
-import gr.aueb.cf.ch12.model.ColorType;
-import gr.aueb.cf.ch12.model.Vehicle;
+import gr.aueb.cf.ch12oopintro.model.ColorType;
+import gr.aueb.cf.ch12oopintro.model.Vehicle;
 
 public class VehicleMain {
 
