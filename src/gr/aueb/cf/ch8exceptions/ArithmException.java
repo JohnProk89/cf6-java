@@ -31,8 +31,5 @@ public class ArithmException {
             }
         }
         System.out.println("Thanks for using the app");
-
-
-
     }
 }

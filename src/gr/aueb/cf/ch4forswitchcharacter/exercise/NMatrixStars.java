@@ -21,7 +21,5 @@ public class NMatrixStars {
             }
             System.out.println();
         }
-
-
     }
 }

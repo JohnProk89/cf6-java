@@ -23,7 +23,6 @@ public class MethodsErrorsOptionalsWithoutExceptions {
         optSa.ifPresent(System.out::println); // Prints "h" or nothing if null
         optIa.ifPresent(System.out::println); // Prints array's pointer value
 //        System.out.println(Optional.of(null)); // throws NullPointerException
-
     }
 
     /**

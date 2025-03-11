@@ -9,6 +9,5 @@ public class DiceApp {
         int die2 = (int) (Math.random() * 6 ) + 1;
 
         System.out.printf("(%d, %d)", die1, die2);
-
     }
 }

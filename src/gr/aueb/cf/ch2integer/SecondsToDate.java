@@ -32,6 +32,5 @@ public class SecondsToDate {
 
         System.out.printf("Total Seconds: %,d, Days: %d, Hours: %02d, Minutes: %02d, Seconds: %02d",
                 totalSeconds, days, hours, minutes, remainingSeconds);
-
     }
 }

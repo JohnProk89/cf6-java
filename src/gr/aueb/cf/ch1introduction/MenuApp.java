@@ -15,6 +15,5 @@ public class MenuApp {
         System.out.println("5. Έξοδος");
         System.out.println("");
         System.out.println("Δώσε αριθμό επιλογής:");
-
     }
 }

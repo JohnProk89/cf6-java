@@ -43,6 +43,5 @@ public class GradesAppLooped {
                 System.out.println("Fail");
             }
         }
-
     }
 }

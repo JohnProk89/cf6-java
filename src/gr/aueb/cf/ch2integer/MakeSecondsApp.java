@@ -30,6 +30,5 @@ public class MakeSecondsApp {
 
         //Εκτύπωση αποτελεσμάτων
         System.out.println("The total seconds is" + totalSeconds);
-
     }
 }

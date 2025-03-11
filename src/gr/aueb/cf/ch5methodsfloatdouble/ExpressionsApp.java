@@ -18,6 +18,5 @@ public class ExpressionsApp {
 
         System.out.printf("Result Float %06.2f\t%e\t%g\n", resultFloat, resultFloat, resultFloat);
         System.out.printf("Result Double %08.3f", resultDouble);
-
     }
 }

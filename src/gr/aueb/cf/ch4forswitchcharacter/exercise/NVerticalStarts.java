@@ -19,7 +19,5 @@ public class NVerticalStarts {
         for (int i = 1; i <= stars; i++) {
             System.out.println("*");
         }
-
-
     }
 }

@@ -23,7 +23,5 @@ public class EuroToUSConverter {
 
         System.out.printf("%,d euros = %,d total cents = %,d dollars and %,d cents",
                 euros, totalCents, dollars, remainingCents);
-
-
     }
 }

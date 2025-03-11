@@ -23,7 +23,5 @@ public class ScannerAddApp {
 
         // Εκτύπωση αποτελεσμάτων
         System.out.printf("%d + %d = %d" , num1, num2, sum);
-
-
     }
 }

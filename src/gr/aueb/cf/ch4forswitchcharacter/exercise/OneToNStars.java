@@ -21,7 +21,5 @@ public class OneToNStars {
             }
             System.out.println();
         }
-
-
     }
 }

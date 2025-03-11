@@ -21,7 +21,6 @@ public class ArmstrongApp {
         int digit = 0;
         boolean isArmstrong = false;
 
-
         System.out.println("Please insert a number (int)");
         inputNumber = in.nextInt();
 

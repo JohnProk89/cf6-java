@@ -35,7 +35,6 @@ public class DivApp {
 //        result = numerator / denominator;
 //        System.out.println("Result " + result);
 //
-
         // Error conditions
         if (denominator == 0 ) {
             System.out.println("Error. Denominator is zero");
@@ -49,6 +48,5 @@ public class DivApp {
 
         result = numerator / denominator;
         System.out.println("Result " + result);
-
     }
 }

@@ -23,6 +23,5 @@ public class PopulateArray {
 
         // Array initialized
         int[] arr3 = new int[] {1, 3,  5, 7};
-
     }
 }

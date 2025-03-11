@@ -19,7 +19,5 @@ public class NHorizontalStars {
         for (int i = 1; i <= stars; i++) {
             System.out.print("*");
         }
-
-
     }
 }

@@ -19,7 +19,5 @@ public class StringInputApp {
         System.out.println("Please insert a new string that ends with enter");
         string = scanner.nextLine();
         System.out.println(string);
-
-
     }
 }

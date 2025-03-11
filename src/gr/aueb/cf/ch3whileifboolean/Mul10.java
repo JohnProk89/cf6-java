@@ -10,13 +10,10 @@ public class Mul10 {
         int i = 1;
         int mul = 1;
 
-        while(i <=10)
-
-        {
+        while(i <=10) {
             mul *= i;
             i++;
         }
     }
-
 }
 

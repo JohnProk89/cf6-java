@@ -22,6 +22,5 @@ public class FactorialApp {
         }
 
         System.out.printf("%d! = %d", n, facto);
-
     }
 }

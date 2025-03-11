@@ -18,7 +18,5 @@ public class DeclarationsApp {
 
         final float LIGHT_SPEED = 3.0E5F;
         final double PI = 3.1415;
-
-
     }
 }

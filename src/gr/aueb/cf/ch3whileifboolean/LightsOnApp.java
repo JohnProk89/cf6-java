@@ -32,6 +32,5 @@ public class LightsOnApp {
         areLightsOn = isRaining && (isRunning || isDark);
 
         System.out.println("Lights are on: " + areLightsOn);
-
     }
 }

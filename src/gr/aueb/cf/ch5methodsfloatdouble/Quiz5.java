@@ -26,6 +26,5 @@ public class Quiz5 {
 
         System.out.println(System.in.read());
         System.out.println((char)System.in.read());
-
     }
   }

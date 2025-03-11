@@ -23,7 +23,5 @@ public class BigDecimalApp {
         } else {
             System.out.println("NOT EQUAL");
         }
-
-
     }
 }

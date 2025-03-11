@@ -16,7 +16,6 @@ public class StackApp {
         System.out.println("POPPED " + popped);
         System.out.println("TRAVERSE");
         traverseStack(stack);
-
     }
 
     public static void push(int num) {

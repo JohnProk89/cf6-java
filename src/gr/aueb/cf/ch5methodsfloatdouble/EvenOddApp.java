@@ -17,7 +17,6 @@ public class EvenOddApp {
 
         System.out.printf("%d is even: %b\n", inputNum, isEven(inputNum));
         System.out.printf("%d is odd: %b", inputNum, !isEven(inputNum));
-
     }
 
     /**

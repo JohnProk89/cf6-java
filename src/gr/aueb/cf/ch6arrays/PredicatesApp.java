@@ -14,7 +14,6 @@ public class PredicatesApp {
         System.out.println(areGTNOdd(testArray,3));
         System.out.println(areSameEnding(testArray,2));
         System.out.println(areSameGroupOfTen(testArray,3));
-
     }
 
     /**

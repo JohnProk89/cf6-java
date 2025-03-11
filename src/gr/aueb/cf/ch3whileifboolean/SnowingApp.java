@@ -24,6 +24,5 @@ public class SnowingApp{
         isSnowing = isRaining && (temp < 0);
 
         System.out.println("Is snowing: " + isSnowing);
-
     }
 }

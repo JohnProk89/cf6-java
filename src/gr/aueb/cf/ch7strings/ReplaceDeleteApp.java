@@ -19,8 +19,5 @@ public class ReplaceDeleteApp {
         // Replaces with empty string - Deletes
         oneName = firstname.replace("-Helen", "");
         System.out.println(oneName);
-
-
-
     }
 }

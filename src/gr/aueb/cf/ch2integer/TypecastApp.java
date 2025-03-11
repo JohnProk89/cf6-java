@@ -16,6 +16,5 @@ public class TypecastApp {
         myResultInt = myInt + (int)myLong;
         myResultLong = myInt * myLong;
         myResultLong = myInt;
-
     }
 }

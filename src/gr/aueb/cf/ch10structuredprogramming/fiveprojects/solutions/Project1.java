@@ -46,8 +46,6 @@ public class Project1 {
                                     result[4] = numbers[m];
                                     result[5] = numbers[n];
 
-
-
                                     if (!isEvenGE(result, 5) && !isOddGE(result, 5) && !sameTen(result, 3)
                                             && !sameEnding(result, 3) && !consecutive(result)) {
                                         ps.printf("%d %d %d %d %d %d\n",

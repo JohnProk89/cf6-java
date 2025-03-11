@@ -23,6 +23,5 @@ public class StrEqualsApp {
         System.out.println(equalReference + " reference equality"); // String equality
         boolean equalUpper = s1.toUpperCase().equals(s3);
         System.out.println(equalUpper + " upper equal");
-
     }
 }

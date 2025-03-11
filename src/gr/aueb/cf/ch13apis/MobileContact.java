@@ -45,12 +45,7 @@ public class MobileContact {
         this.phoneNumber = phoneNumber;
     }
 
-
     // Service API
-
-
-
-
 
     // CRUD API
 

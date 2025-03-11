@@ -14,7 +14,5 @@ public class MainCustomer {
 
         System.out.println("Customer ΑΦΜ: " + customer.getVatRegistrationNo());
         System.out.println("Anna's vat: " + anna.getVatRegistrationNo());
-
     }
-
 }

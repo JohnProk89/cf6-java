@@ -16,5 +16,4 @@ public class IOFilePrint {
             System.out.println("Το αρχείο δεν βρέθηκε");
         }
     }
-
 }

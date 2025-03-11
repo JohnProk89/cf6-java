@@ -38,6 +38,5 @@ public class StrBuilderApp {
         timeEnd = System.nanoTime();
         sbElapsedTime = (timeEnd - timeStart) / 1_000_000_000.0;
         System.out.println("String Builder Elapsed Time: " + sbElapsedTime + " seconds");
-
     }
 }

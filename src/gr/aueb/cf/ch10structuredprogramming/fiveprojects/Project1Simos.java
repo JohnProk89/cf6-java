@@ -52,6 +52,4 @@ public class Project1Simos {
             }
         }
     }
-
-
 }

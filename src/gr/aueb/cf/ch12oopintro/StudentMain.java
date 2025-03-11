@@ -35,6 +35,5 @@ public class StudentMain {
 //        System.out.println("Id: " + alice.id);
 //        System.out.println("Firstname: " + alice.firstname);
 //        System.out.println("Lastname: " + alice.lastname);
-
     }
 }

@@ -32,6 +32,5 @@ public class GenericWhile {
             System.out.println("Count = " + count);
             i++;
         }
-
     }
 }

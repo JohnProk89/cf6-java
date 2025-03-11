@@ -21,5 +21,4 @@ public class StrCopy {
     public static String copyStr(String s) {
         return s;
     }
-
 }

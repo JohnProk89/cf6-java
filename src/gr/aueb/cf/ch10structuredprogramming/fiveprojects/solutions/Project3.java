@@ -1,6 +1,5 @@
 package gr.aueb.cf.ch10structuredprogramming.fiveprojects.solutions;
 
-
 import java.util.Arrays;
 
 /**
@@ -13,7 +12,6 @@ public class Project3 {
 
         int[][] arr = {{1, 2, 3, 4},
                 {6, 7, 8, 9}};
-
 
         int[][] shallowCopy = shallowCopy(arr);
         System.out.println("Initial");

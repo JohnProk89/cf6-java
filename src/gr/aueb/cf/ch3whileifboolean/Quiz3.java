@@ -12,7 +12,5 @@ public class Quiz3 {
         }
 
         System.out.println(i);
-
     }
-
 }

@@ -24,8 +24,5 @@ public class TernaryOpApp {
         System.out.printf("The min of (%d, %d) is %d", num1, num2, min);
         System.out.printf("The min of (%d, %d) is %d", num1, num2, (num1 < num2) ? num1 : num2);
         System.out.printf("The min of (%d, %d) is %d", num1, num2, Math.min(num1,num2));
-
-
-
     }
 }

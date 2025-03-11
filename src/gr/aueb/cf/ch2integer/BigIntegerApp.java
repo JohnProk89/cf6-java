@@ -16,7 +16,5 @@ public class BigIntegerApp {
         BigInteger result = myBigNum1.add(myBigNum2);
         System.out.println("The result is: " + result);
         System.out.printf("The result is: %,d" , result);
-
-
     }
 }

@@ -18,7 +18,6 @@ public class SentinelApp {
             iterations++;
 //            num = in.nextInt();
         }
-
         System.out.println("Positives count: " + iterations);
     }
 }

@@ -69,7 +69,6 @@ public class Account {
         this.balance = balance;
     }
 
-
     //Public API
 
     /**

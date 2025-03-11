@@ -9,7 +9,6 @@ public class ArraysUtilApp {
         int[] arrayCopy;
         int[] arraySecondCopy;
 
-
         // Array Sort
         Arrays.sort(arr);
         traverse(arr);
@@ -35,8 +34,6 @@ public class ArraysUtilApp {
         traverse(arr);
         System.out.println();
         traverse(arrayCopy);
-
-
     }
 
     public static void traverse(int[] arr) {

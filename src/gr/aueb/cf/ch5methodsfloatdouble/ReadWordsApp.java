@@ -28,6 +28,7 @@ public class ReadWordsApp {
             System.out.print(ch + " ");
         }
     }
+
     public static void consumeSpaces() throws IOException {
         while ((ch = (char) System.in.read()) == ' ');
         if (ch == '#') {

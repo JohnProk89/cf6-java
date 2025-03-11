@@ -24,13 +24,10 @@ public class TankApp {
         System.out.println("Please insert if tank 2 is LT quarter.");
         isLTQuarterTank2 = in.nextBoolean();
 
-
         isRed = isLTQuarterTank1 && isLTQuarterTank2;
         isOrange = isLTQuarterTank1 ^ isLTQuarterTank2;
 
         System.out.println("Indication red: " + isRed);
         System.out.println("Indication orange: " + isOrange);
-
-
     }
 }

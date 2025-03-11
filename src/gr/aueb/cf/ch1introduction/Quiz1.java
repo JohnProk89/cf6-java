@@ -17,6 +17,5 @@ public class Quiz1 {
         // The following code can server as a test sample
 /*        System.out.println();
         System.out.println();*/
-
     }
 }

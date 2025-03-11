@@ -20,7 +20,6 @@ public class Celcius {
         temperatureFahrenheit = scanner.nextInt();
         temperatureCelcius = ( (temperatureFahrenheit -32)*5)/9; // Fahrenhetit to Celcius formula
 
-
         //Εκτύπωση αποτελεσμάτων
         System.out.printf("%d\u2109 = %d\u2103\n", temperatureFahrenheit, temperatureCelcius);
     }

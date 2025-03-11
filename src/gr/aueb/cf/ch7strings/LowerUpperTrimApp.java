@@ -19,6 +19,5 @@ public class LowerUpperTrimApp {
         System.out.printf("Lexeme: %s, Lowercase: %s \n", lexeme, lowercase);
         System.out.printf("Lexeme: %s, Uppercase: %s \n", lexeme, uppercase);
         System.out.printf("Lexeme: %s, Trimmed: %s \n", lexeme, trimmed);
-
     }
 }

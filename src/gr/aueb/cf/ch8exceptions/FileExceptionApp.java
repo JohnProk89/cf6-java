@@ -19,7 +19,6 @@ public class FileExceptionApp {
         }
     }
 
-
     public static int getNum()  throws FileNotFoundException, InputMismatchException/*Readabililty*/{
         File fd = new File("C:/tmp/file.txt");
         int num = 0;

@@ -15,7 +15,6 @@ public class OverloadingApp2 {
         sum2 = add(1, 2);
         sum3 = add(1, 2, 3);
         sum4 = add(1, 2, 3, 4);
-
     }
 
     /**
@@ -38,6 +37,7 @@ public class OverloadingApp2 {
     public static int add(int a, int b, int c) {
         return a + b + c;
     }
+
     /**
      * Adds four integers
      * @param a the first int

@@ -36,6 +36,5 @@ public class BigIntPowerApp {
             result2 = result2.multiply(base);
         }
         System.out.printf("%d^%d = %,d", base2, power2, result2);
-
     }
 }

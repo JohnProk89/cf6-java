@@ -11,6 +11,5 @@ public class CharOrdinalApp {
 
         System.out.printf("char: %c, ordinal: %d\n", ch1, (int)ch1);
         System.out.printf("char: %c, ordinal: %d", ch2, (int)ch2);
-
     }
 }

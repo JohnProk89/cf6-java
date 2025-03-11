@@ -131,5 +131,4 @@ public class PredicatesExercise {
         }
         return sameTen;
     }
-
 }

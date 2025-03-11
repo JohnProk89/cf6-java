@@ -27,7 +27,6 @@ public class ExerciseArrays {
         traverseArray(returnedArray);
         System.out.println("Checking if there is at least one even element in the test array: " + isThereEven(testArray));
         System.out.printf("Checking if all elements are even numbers in the test array: " + areAllEven(testArray));
-
     }
 
     /**
@@ -39,6 +38,7 @@ public class ExerciseArrays {
             System.out.println(element + " ");
         }
     }
+
     /**
      * Searches an element of a given array
      * @param arr the given array

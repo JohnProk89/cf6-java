@@ -30,6 +30,4 @@ public class MinArray2 {
         }
         return minPosition;
     }
-
-
 }

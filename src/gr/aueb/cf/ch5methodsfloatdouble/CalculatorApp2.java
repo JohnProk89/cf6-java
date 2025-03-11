@@ -97,21 +97,25 @@ public class CalculatorApp2 {
     public static int mul(int num1, int num2) {
         return num1 * num2;
     }
+
     public static int div(int num1, int num2) {
         if (num2 == 0) {
             return Integer.MIN_VALUE; // error code
         }
         return num1 / num2;
     }
+
     public static int mod(int num1, int num2) {
         if (num2 == 0) {
             return Integer.MIN_VALUE; // error code
         }
         return num1 % num2;
     }
+
     public static int getChoice() throws IOException {
         return in.nextInt();
     }
+
     public static void printMenu() {
         System.out.println("Επιλέξτε ένα από τα παρακάτω");
         System.out.println("1. Πρόσθεση");
@@ -143,5 +147,4 @@ public class CalculatorApp2 {
 
         return errorCode;
     }
-
 }

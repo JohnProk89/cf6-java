@@ -18,8 +18,5 @@ public class CharHelloApp {
         System.out.print(l);
         System.out.print(o);
         System.out.print(bang);
-
-
-
     }
 }

@@ -16,7 +16,6 @@ public class ReducingApp {
         sum = getSum(testArray);
         average = getAvg(testArray);
 
-
         // Printing results
         System.out.println(sum);
         System.out.println(average);

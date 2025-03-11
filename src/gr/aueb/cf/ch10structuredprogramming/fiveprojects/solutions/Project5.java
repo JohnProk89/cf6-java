@@ -3,7 +3,6 @@ package gr.aueb.cf.ch10structuredprogramming.fiveprojects.solutions;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-
 /**
  * A Theater booking app that prints a menu with choices for the user.
  * The user can choose to book a seat or cancel a previously booked seat
@@ -158,7 +157,6 @@ public class Project5 {
             System.out.printf("Seat %c%d is not booked.\n",column,row);
         }
     }
-
 
     public static void printTheater() {
         for (char i = 65; i <= 90; i++) {
