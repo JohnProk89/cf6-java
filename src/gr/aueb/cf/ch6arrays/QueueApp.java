@@ -1,45 +1,45 @@
 package gr.aueb.cf.ch6arrays;
 
 /**
- * Demo of FIFO queques
+ * Demo of FIFO queues
  */
 public class QueueApp {
-    static int[] queque = new int[100];
+    static int[] queue = new int[100];
     static int pivot = -1;
 
     public static void main(String[] args) {
         int num;
-        enQueque(1);
-        enQueque(2);
-        enQueque(3);
+        enQueue(1);
+        enQueue(2);
+        enQueue(3);
         printQueue();
-        num = deQueque();
+        num = deQueue();
         System.out.println(num);
         printQueue();
     }
 
-    public static void enQueque(int num) {
+    public static void enQueue(int num) {
         if (isFull()) {
-            System.out.println("Queque is full");
+            System.out.println("Queue is full");
             return;
         }
-        queque[++pivot] = num;
+        queue[++pivot] = num;
     }
 
-    public static int deQueque() {
+    public static int deQueue() {
         if (isEmpty()) {
-            System.out.println("Queque is empty");
+            System.out.println("Queue is empty");
             return 0;
         }
-        int valueToReturn = queque[0];
+        int valueToReturn = queue[0];
         pivot--;
-        shiftQuequeLeft();
+        shiftQueueLeft();
         return valueToReturn;
     }
 
-    public static void shiftQuequeLeft() {
+    public static void shiftQueueLeft() {
         for ( int i = 0; i <= pivot; i++) {
-            queque[i] = queque[i + 1];
+            queue[i] = queue[i + 1];
         }
     }
 
@@ -48,7 +48,7 @@ public class QueueApp {
     }
 
     public static boolean isFull() {
-        return pivot == queque.length - 1;
+        return pivot == queue.length - 1;
     }
 
     public static void printQueue() {
@@ -57,7 +57,7 @@ public class QueueApp {
         }
 
         for (int i = 0; i <= pivot; i++) {
-            System.out.print(queque[i] + " ");
+            System.out.print(queue[i] + " ");
         }
         System.out.println();
     }
